@@ -11,3 +11,5 @@ Local :
 
 Perguntas : 
 
+- Por que você odeia tanto CoffeeScript?
+
