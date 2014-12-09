@@ -5,7 +5,7 @@ da técnologia em lugares legais : Bares, Centros Culturais, Restaurantes etc ..
 
 ===================
 
-Entrevistado : 
+Entrevistado : Jean Carlo Nascimento (Suissa)
 
 Local : 
 
