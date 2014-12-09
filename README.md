@@ -12,4 +12,4 @@ Local :
 Perguntas : 
 
 - Por que você odeia tanto CoffeeScript?
-
+- Qual o caminho para se tornar um Programador JavaScript fodão?
