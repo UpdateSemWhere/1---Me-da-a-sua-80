@@ -9,7 +9,7 @@ Entrevistado: Jean Carlo Nascimento (Suissa)
 Local:
 
 Perguntas:
-
+- Como você descreveria o perfil do desenvolvedor brasileiro? Ele compete com o mercado mundial ou fica atrás em algum aspecto?
 - Por que você odeia tanto CoffeeScript?
 - Qual o caminho para se tornar um Programador JavaScript fodão das galáxias?
 - O que pensa sobre `web components`?
