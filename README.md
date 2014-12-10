@@ -14,3 +14,4 @@ Perguntas:
 - Qual o caminho para se tornar um Programador JavaScript fodão das galáxias?
 - O que pensa sobre `web components`?
 - Qual a importância das comunidades e qual ponto você considera mais negativo?
+- Qual a sua forma de desenvolvimento de seus projetos, já que seu estilo de vida é nomadev?
